@@ -3,3 +3,5 @@ This repository contains the content for running the Databricks Cloud Lakehouse 
 
 The instructions of running the labs are documented in the notebooks.
 For each lab (a subfolder under the root directory), start with the notebook **00_Introduction**.
+
+Credit: https://github.com/databricks-demos/cloud-lakehouse-labs
